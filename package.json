@@ -1,12 +1,17 @@
 {
+  "name": "portfolio-api",
+  "version": "1.0.0",
+  "description": "Simple json-server database to deploy to the cloud",
+  "main": "server.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+      "start": "node server.js"
   },
+  "keywords": [
+      "json-server, node, REST API"
+  ],
+  "author": "NSS Student",
+  "license": "ISC",
   "dependencies": {
-    "react": "^18.2.0",
-    "react-router-dom": "^6.10.0"
+      "json-server": "latest"
   }
 }
