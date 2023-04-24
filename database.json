@@ -2,7 +2,7 @@
   "images": [
     {"id": 1, "url": "https://i.imgur.com/rTx4n56.jpg"},
     {"id": 2, "url": "https://i.imgur.com/eeIciD2.jpg"},
-    {"id": 3, "url": "https://i.imgur.com/kClm2xF.jpg"},
+    {"id": 3, "url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU4OGM5OGM5NDcyMjZkZjU1YmUyNTZmZWExMTE3MTE1ZTA0NmNjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iXGkUQAgGIMOgVS0iJ/giphy.gif"},
     {"id": 4, "url": "https://i.imgur.com/41i0wrK.jpg"},
     {"id": 5, "url": "https://i.imgur.com/ctT4xoE.jpg"},
     {"id": 6, "url": "https://i.imgur.com/IsB0smI.jpg"},
@@ -12,7 +12,10 @@
     {"id": 10, "url": "https://i.imgur.com/tSzSaiL.jpg"},
     {"id": 11, "url": "https://i.imgur.com/F1Pe4pO.jpg"},
     {"id": 12, "url": "https://i.imgur.com/2jMusvA.jpg"},
-    {"id": 13, "url": "https://i.imgur.com/41i0wrK.jpg"},
-    {"id": 14, "url": "https://i.imgur.com/rTx4n56.jpg"}
+    {"id": 13, "url": "https://i.imgur.com/41i0wrK.jpg"}
+  ],
+  "projects": [
+    {"id": 1, "title": "MagicMenu", "imgUrl": "https://i.imgur.com/T4DtbFf.png", "link": "https://github.com/wesley-hughes/magic-menu", "description": "Meal planning app that builds a week's worth of menus with just a few taps on your device. Created March 2023 for front-end capstone project."},
+    {"id": 2, "title": "AI Chat Bot", "imgUrl": "https://i.imgur.com/IGVbpRd.png", "link": "https://github.com/wesley-hughes/test_chat_bot", "description": "Fun side project using OpenAI to create a simple chatbot in Python. Used Gradio for UI. Created April 2023 using Youtube Tutorial by Shweta Lodha."}
   ]
 }
